@@ -1,0 +1,28 @@
+img {
+    float: right;
+    margin:0 auto;
+  }
+  .kotak{
+      width:600px;
+      border: solid green 5px;
+      margin:0 auto
+  }
+  .clearfix{
+      overflow:auto;
+      width:600px;
+      border: solid green 5px;
+      margin:0 auto
+  }
+  p{
+    width: 600px;
+    margin:0 auto;
+}
+h2{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+body{
+    background-color:lightsteelblue;
+}

@@ -1,0 +1,25 @@
+.three-column {
+    padding: 1em;
+    -moz-column-count: 3;
+    -moz-column-gap: 1em;
+    -webkit-column-count: 3;
+    -webkit-column-gap: 1em;
+    column-count: 3;
+    column-gap: 1em;
+  }
+  div{
+      border: solid pink 5px;
+      width:600px;
+      margin:0 auto;
+  }
+  p{
+    width: 700px;
+    margin:0 auto;
+    text-align: center;
+  }
+  h2{
+    text-align: center;
+  }
+  body{
+    background-color:lightsteelblue;
+}

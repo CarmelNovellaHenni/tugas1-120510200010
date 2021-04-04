@@ -1,0 +1,36 @@
+.container {
+    position: relative;
+    border: solid blue 5px;
+  }
+  nav {
+    position: absolute;
+    left: 0px;
+    width: 200px;
+    border: solid black 5px;
+  }
+  section {
+    /* position is static by default */
+    margin-left: 200px;
+    border: solid pink 5px;
+  }
+  footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 70px;
+    background-color: white;
+    width: 100%;
+    border: solid orange 5px;
+  }
+  body {
+    margin-bottom: 120px;
+  }
+  p{
+    text-align: center;
+}
+h3{
+  text-align: center;
+}
+body{
+  background-color:lightsteelblue;
+}

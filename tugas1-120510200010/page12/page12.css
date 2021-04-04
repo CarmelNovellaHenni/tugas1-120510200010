@@ -1,0 +1,25 @@
+nav {
+    float: left;
+    width: 200px;
+    border: solid pink 5px;
+}
+section {
+    margin-left: 200px;
+    border: solid red 5px;
+}
+.clearfix{
+overflow:auto;
+border: solid green 5px;
+}
+p{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+body{
+    background-color:lightsteelblue;
+}
+h4{
+    text-align: center;
+}

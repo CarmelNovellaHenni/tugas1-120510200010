@@ -1,0 +1,26 @@
+nav {
+    float: left;
+    width: 25%;
+    border: solid purple 5px;
+  }
+  .column {
+    margin-left: 25%;
+    border: solid purple 5px;
+  }
+  .container {
+    position: relative;
+    border: solid green 5px;
+  }
+  section {
+              border: solid orange 5px;
+          }
+  p{
+    width: 600px;
+    margin:0 auto;
+  }
+  h2{
+    text-align: center;
+  }
+  body{
+    background-color:lightsteelblue;
+}

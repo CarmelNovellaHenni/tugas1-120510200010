@@ -1,0 +1,31 @@
+.block{
+    border: solid pink 5px;
+}
+p{
+    width:600px;
+    margin:0 auto;
+}
+h3{
+    width:600px;
+    margin:0 auto;
+}
+.hilang{
+    display: none;
+}
+.sembunyi{
+    visibility: hidden;
+}
+h2{
+    text-align: center;
+}
+div{
+    width:600px;
+    margin:0 auto;
+}
+ul{
+    width:600px;
+    margin:0 auto;
+}
+body{
+    background-color:lightsteelblue;
+}

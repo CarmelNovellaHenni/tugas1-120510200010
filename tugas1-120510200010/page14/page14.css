@@ -1,0 +1,35 @@
+@media (min-width:600px) {
+    nav {
+        float: left;
+        width: 25%;
+        border: solid pink 5px;
+    }
+    section {
+        margin-left: 25%;
+        border: solid orange 5px;
+        text-align: center;
+    }
+    }
+    @media (max-width:599px) {
+    nav li {
+        display: inline;
+    }
+    }
+    .container {
+        position: relative;
+        border: solid green 5px;
+    }
+    p{
+        text-align: center;
+    }
+    h3{
+        text-align: center;
+    }
+    .ini{
+        text-align: center;
+        width: 800px;
+        margin: 0 auto;
+    }
+    body{
+        background-color:lightsteelblue;
+    }

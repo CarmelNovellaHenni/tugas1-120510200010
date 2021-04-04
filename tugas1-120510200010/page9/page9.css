@@ -1,0 +1,23 @@
+img {
+    float: right;
+    margin: 0 0 1em 1em;
+  }
+  .ini {
+      max-width: 600px;
+      margin: 0 auto; 
+      border: solid black 5px;
+      background-color: black;
+      color:white;
+  }
+  p{
+      text-align: center;
+  }
+  h3{
+      text-align: center;
+  }
+  b{
+      font-style: italic;
+  }
+  body{
+    background-color:lightsteelblue;
+}

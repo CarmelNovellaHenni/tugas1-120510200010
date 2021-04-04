@@ -1,0 +1,33 @@
+article img {
+    float: right;
+    width: 50%;
+}
+nav {
+    float: left;
+    width: 25%;
+    border: solid red 5px;
+}
+section {
+    margin-left: 25%;
+    border: solid pink 5px;
+}
+.clearfix{
+    overflow:auto;
+    width: 600px;
+    margin:0 auto;
+    border: solid green 5px;
+}
+.container {
+    position: relative;
+    border: solid black 5px;
+}
+p{
+    width: 600px;
+    margin:0 auto;
+}
+h3{
+    text-align: center;
+}
+body{
+    background-color:lightsteelblue;
+}

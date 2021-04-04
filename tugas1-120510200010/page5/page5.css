@@ -1,0 +1,28 @@
+.simple {
+    width: 500px;
+    margin: 20px auto;
+    border: solid blue 5px;
+  }
+
+.fancy {
+    width: 500px;
+    margin: 20px auto;
+    padding: 50px;
+    border: solid blue 10px;
+    border-width: 10px;
+ }
+ .teks{
+    width: 600px;
+     margin:0 auto
+ }
+ p{
+   width:600px;
+   margin:0 auto;
+   text-align: center;
+ }
+ h3{
+   text-align: center;
+ }
+ body{
+  background-color:lightsteelblue;
+}

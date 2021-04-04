@@ -1,0 +1,11 @@
+#main {
+    max-width: 600px;
+    margin: 0 auto; 
+    border: solid green 5px;
+  }
+  h3{
+    text-align:center;
+  }
+  body{
+    background-color:lightsteelblue;
+}

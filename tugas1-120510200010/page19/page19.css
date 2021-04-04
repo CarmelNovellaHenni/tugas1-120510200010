@@ -1,0 +1,22 @@
+p{
+    text-align: center;
+    width:600px;
+    margin:0 auto;
+}
+h2{
+    text-align: center;
+}
+img{margin: 5px;
+    border: solid white 5px;
+    vertical-align: middle;
+    position: relative;}
+
+.rapi {
+        text-align: center;
+        margin: 0 auto;
+        padding: 50px;
+        max-width: 1000px;
+    }
+body{
+    background-color:lightsteelblue;
+}

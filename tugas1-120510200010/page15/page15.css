@@ -1,0 +1,37 @@
+.box {
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: solid pink 5px;
+    text-align: center;
+}
+.after-box {
+    clear: left;
+    border: solid orange 5px;
+    text-align: center;
+}
+.box2 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: solid pink 5px;
+    text-align: center;
+}
+.kotak2{
+    border: solid orange 5px;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color:lightsteelblue;
+}
